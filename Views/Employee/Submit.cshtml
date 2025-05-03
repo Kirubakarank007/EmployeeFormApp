@@ -1,0 +1,33 @@
+@model Employee
+
+<h2>Submit Employee Form</h2>
+
+<form method="post" enctype="multipart/form-data">
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" /><br/>
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <label>EmpId</label>
+        <input asp-for="EmpId" type="number" /><br/>
+        <span asp-validation-for="EmpId"></span>
+    </div>
+    <div>
+        <label>Email</label>
+        <input asp-for="EmailAddress" type="email" /><br/>
+        <span asp-validation-for="EmailAddress"></span>
+    </div>
+    <div>
+        <label>Photo</label>
+        <input type="file" name="image" /><br/>
+        <span asp-validation-for="ImagePath"></span>
+    </div>
+    <button type="submit">Submit</button>
+    
+</form>
+
+@if(ViewBag.Message != null)
+{
+    <p>@ViewBag.Message</p>
+}

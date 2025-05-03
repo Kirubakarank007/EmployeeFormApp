@@ -1,0 +1,23 @@
+@model Employee
+
+<h2>Retrieve Employee Details</h2>
+
+<form asp-action="Retrieve" method="post">
+    <div>
+        <label>Enter EmpId</label>
+        <input name="empId" type="number" />
+    </div>
+    <button type="submit">Get Details</button>
+</form>
+
+@if(Model != null)
+{
+    <h3>Employee Details:</h3>
+    <p>Name: @Model.Name</p>
+    <p>Email: @Model.EmailAddress</p>
+    <img src="@Model.ImagePath" width="200" />
+}
+else if(ViewBag.Message != null)
+{
+    <p>@ViewBag.Message</p>
+}
