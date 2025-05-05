@@ -18,9 +18,13 @@ public class EmployeeService{
    }
 
     public Employee GetById(int id){
-        
         var res= _context.Employees.FirstOrDefault(e => e.EmpId == id);
-    
         return res!;
     }
+
+    public List<Employee> GetAll()
+    {
+        return _context.Employees.ToList();
+    }
+
 }

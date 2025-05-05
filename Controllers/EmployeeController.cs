@@ -91,4 +91,12 @@ public IActionResult Submit(Employee emp, IFormFile img)
 
         return View(res);
     }
+
+    [HttpGet]
+    public IActionResult ListAll()
+    {
+        var employees = _empservice.GetAll(); 
+        return View(employees);
+    }
+
 }

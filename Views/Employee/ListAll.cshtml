@@ -1,0 +1,37 @@
+@model List<Employee>
+
+<h2>All Employees</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table border="1" cellpadding="5">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>EmpId</th>
+                <th>Email</th>
+                <th>Photo</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.Name</td>
+                <td>@emp.EmpId</td>
+                <td>@emp.EmailAddress</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(emp.ImagePath))
+                    {
+                        <img src="@emp.ImagePath" width="100" height="100" />
+                    }
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No employees found.</p>
+}
