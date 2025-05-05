@@ -1,30 +1,39 @@
 @model Employee
+@Html.ValidationSummary(true)
 
 <h2>Submit Employee Form</h2>
 
-<form asp-action="Submit" method="post" enctype="multipart/form-data">
+<form method="post" enctype="multipart/form-data">
     <div>
-        <label>Name</label>
-        <input asp-for="Name" /><br/>
-        <span asp-validation-for="Name"></span>
+        <label for="Name">Name</label>
+        <input asp-for="Name" placeholder="Enter your full name" title="Enter the name of the employee" />
+        <br/>
+        <span asp-validation-for="Name" class="text-danger"></span>
     </div>
+    
     <div>
-        <label>EmpId</label>
-        <input asp-for="EmpId" type="number" /><br/>
-        <span asp-validation-for="EmpId"></span>
+        <label for="EmpId">Employee ID</label>
+        <input asp-for="EmpId" type="number" placeholder="Enter numeric employee ID" title="Enter employee ID as numbers only" />
+        <br/>
+        <span asp-validation-for="EmpId" class="text-danger"></span>
     </div>
+    
     <div>
-        <label>Email</label>
-        <input asp-for="EmailAddress" type="email" /><br/>
-        <span asp-validation-for="EmailAddress"></span>
+        <label for="EmailAddress">Email Address</label>
+        <input asp-for="EmailAddress" type="email" placeholder="Enter your email address" title="Enter a valid email address" />
+        <br/>
+        <span asp-validation-for="EmailAddress" class="text-danger"></span>
     </div>
+    
     <div>
-        <label>Photo</label>
-        <input type="file" name="image" accept="image/png, image/jpeg" /><br/>
-        <span asp-validation-for="ImagePath"></span>
+        <label for="ImagePath">Upload Photo</label>
+        <input type="file" name="img" accept="image/png, image/jpeg ,image/jpg" />
+        <br/>
+        <span asp-validation-for="ImagePath" class="text-danger"></span>
     </div>
+    
     <button type="submit">Submit</button>
-    </form>
+</form>
 
 @if (ViewBag.Message != null)
 {

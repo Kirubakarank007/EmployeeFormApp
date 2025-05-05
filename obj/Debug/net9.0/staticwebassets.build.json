@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v83DeiPPaSsJGb+fRLvs4r+qsDgTew3kbVmK2ttgdoE=",
+  "Hash": "KvFrQiucem3vUf1hCKIr/NgYJWjjveLshL2vDJ6S8Zo=",
   "Source": "EmployeeFormApp",
   "BasePath": "_content/EmployeeFormApp",
   "Mode": "Default",
@@ -2724,6 +2724,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1223_KIRUBAKARAN .png",
+      "SourceId": "EmployeeFormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\",
+      "BasePath": "_content/EmployeeFormApp",
+      "RelativePath": "Uploads/1223_KIRUBAKARAN #[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zfbxdicscp",
+      "Integrity": "Ly1YqiBL7xohdhS9Ou9BQu/4Czb4od1TdVT1GnJeueg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\1223_KIRUBAKARAN .png"
+    },
+    {
+      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1234_yash.jpg",
+      "SourceId": "EmployeeFormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\",
+      "BasePath": "_content/EmployeeFormApp",
+      "RelativePath": "Uploads/1234_yash#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fokmynouzv",
+      "Integrity": "LzAwkHVOaUlILuaSCFvJi4bHkYURuwM10ugpzu9K6uY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\1234_yash.jpg"
     }
   ],
   "Endpoints": [
@@ -21878,6 +21920,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-JKWeHUaANNuffeRatdc54UCb84RoxjEw/nTq8Mops8Y="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/1223_KIRUBAKARAN .png",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1223_KIRUBAKARAN .png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "521013"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ly1YqiBL7xohdhS9Ou9BQu/4Czb4od1TdVT1GnJeueg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 16:42:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ly1YqiBL7xohdhS9Ou9BQu/4Czb4od1TdVT1GnJeueg="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/1223_KIRUBAKARAN .zfbxdicscp.png",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1223_KIRUBAKARAN .png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "521013"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ly1YqiBL7xohdhS9Ou9BQu/4Czb4od1TdVT1GnJeueg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 16:42:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zfbxdicscp"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/1223_KIRUBAKARAN .png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ly1YqiBL7xohdhS9Ou9BQu/4Czb4od1TdVT1GnJeueg="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/1234_yash.fokmynouzv.jpg",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1234_yash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2039232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LzAwkHVOaUlILuaSCFvJi4bHkYURuwM10ugpzu9K6uY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 16:47:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fokmynouzv"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/1234_yash.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LzAwkHVOaUlILuaSCFvJi4bHkYURuwM10ugpzu9K6uY="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/1234_yash.jpg",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1234_yash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2039232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LzAwkHVOaUlILuaSCFvJi4bHkYURuwM10ugpzu9K6uY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 16:47:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LzAwkHVOaUlILuaSCFvJi4bHkYURuwM10ugpzu9K6uY="
         }
       ]
     }
