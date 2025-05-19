@@ -220,3 +220,6 @@ C:\Users\kkirubakaran\project\.Net core Course\project\EmployeeFormApp\bin\Debug
 C:\Users\kkirubakaran\project\.Net core Course\project\EmployeeFormApp\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\kkirubakaran\project\.Net core Course\project\EmployeeFormApp\obj\Debug\net9.0\EmployeeFormApp.csproj.AssemblyReference.cache
 C:\Users\kkirubakaran\project\.Net core Course\project\EmployeeFormApp\obj\Debug\net9.0\Employee.96C572B4.Up2Date
+C:\Users\kkirubakaran\project\.Net core Course\project\EmployeeFormApp\obj\Debug\net9.0\compressed\jwp543hbdq-gxz8nghp53.gz
+C:\Users\kkirubakaran\project\.Net core Course\project\EmployeeFormApp\obj\Debug\net9.0\compressed\zrzwp4rj9g-8kbh9e54mj.gz
+C:\Users\kkirubakaran\project\.Net core Course\project\EmployeeFormApp\obj\Debug\net9.0\compressed\1q8g50t8yo-wnzneddyyb.gz

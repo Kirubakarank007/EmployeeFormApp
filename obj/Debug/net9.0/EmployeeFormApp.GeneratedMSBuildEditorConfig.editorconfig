@@ -28,28 +28,24 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/kkirubakaran/project/.Net core Course/project/EmployeeFormApp/Views/Employee/ListAll.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcTGlzdEFsbC5jc2h0bWw=
+[C:/Users/kkirubakaran/project/.Net core Course/project/EmployeeFormApp/Views/Employee/AddEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kkirubakaran/project/.Net core Course/project/EmployeeFormApp/Views/Employee/AllEmployees.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWxsRW1wbG95ZWVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kkirubakaran/project/.Net core Course/project/EmployeeFormApp/Views/Employee/NotFound.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcTm90Rm91bmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kkirubakaran/project/.Net core Course/project/EmployeeFormApp/Views/Employee/Retrieve.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUmV0cmlldmUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/kkirubakaran/project/.Net core Course/project/EmployeeFormApp/Views/Employee/Submit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcU3VibWl0LmNzaHRtbA==
+[C:/Users/kkirubakaran/project/.Net core Course/project/EmployeeFormApp/Views/Employee/SearchEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcU2VhcmNoRW1wbG95ZWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kkirubakaran/project/.Net core Course/project/EmployeeFormApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/kkirubakaran/project/.Net core Course/project/EmployeeFormApp/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kkirubakaran/project/.Net core Course/project/EmployeeFormApp/Views/Shared/Error.cshtml]

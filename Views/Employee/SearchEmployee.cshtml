@@ -1,0 +1,35 @@
+@model Employee
+<link rel="stylesheet" href="~/css/SearchEmployee.css" asp-append-version="true" />
+@{
+    ViewData["Title"] = "Retrieve Employee";
+}
+
+<div class="container">
+    <h2>Retrieve Employee Details</h2>
+    <div class="details">
+        <form asp-action="SearchEmployee" method="post">
+            <div>
+                <label for="empId">Enter Employee ID</label><br>
+                <input type="number" name="empId" required />
+                <button type="submit">Search</button>
+            </div>
+        </form>
+    </div>
+    @if (Model != null)
+    {
+        <h3>Details Found:</h3>
+        <table >
+            <tr>
+                <th>Image</th>
+                <th>Name</th>
+                <th>EmpID</th>
+                <th>Email</th>
+            </tr>
+            <td><img src="@Model.ImagePath" width="50" /></td>
+            <td> @Model.Name</td>
+            <td> @Model.EmpId</td>
+            <td> @Model.EmailAddress</td>
+        </table>   
+    }
+
+</div>

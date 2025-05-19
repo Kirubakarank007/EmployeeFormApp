@@ -1,39 +1,7 @@
 @model Employee
-@Html.ValidationSummary(true, "", new { @class = "text-danger" })
-<h2>Submit Employee Form</h2>
+<link rel="stylesheet" href="~/css/AddEmployee.css" asp-append-version="true" />
 
-<form method="post" enctype="multipart/form-data">
-    <div>
-        <label for="Name">Name</label>
-        <input asp-for="Name" placeholder="Enter your full name" title="Enter the name of the employee" />
-        <br/>
-        <span asp-validation-for="Name" class="text-danger"></span>
-    </div>
-    
-    <div>
-        <label for="EmpId">Employee ID</label>
-        <input asp-for="EmpId" type="number" placeholder="Enter numeric employee ID" title="Enter employee ID as numbers only" />
-        <br/>
-        <span asp-validation-for="EmpId" class="text-danger"></span>
-    </div>
-    
-    <div>
-        <label for="EmailAddress">Email Address</label>
-        <input asp-for="EmailAddress" type="email" placeholder="Enter your email address" title="Enter a valid email address" />
-        <br/>
-        <span asp-validation-for="EmailAddress" class="text-danger"></span>
-    </div>
-    
-    <div>
-        <label for="ImagePath">Upload Photo</label>
-        <input type="file" name="img" accept="image/png, image/jpeg ,image/jpg" />
-        <br/>
-        <span asp-validation-for="ImagePath" class="text-danger"></span>
-    </div>
-    
-    <button type="submit">Submit</button>
-</form>
-
+<div class="container">
 @if (ViewBag.Message != null && ViewBag.Message == "File submitted successfully!")
 {
     <p style="color:green;">@ViewBag.Message</p>
@@ -43,3 +11,39 @@ else
     <p style="color:red;">@ViewBag.Message</p>
 
 }
+<form asp-action="AddEmployee" method="post" enctype="multipart/form-data">
+<h2> Employee Form</h2>
+
+    <div>
+        <label for="Name">Name</label> <br>
+        <input asp-for="Name" placeholder="Enter your full name" title="Enter the name of the employee" />
+        <br/>
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    
+    <div>
+        <label for="EmpId">Employee ID</label><br>
+        <input asp-for="EmpId" type="number" placeholder="Enter numeric employee ID" title="Enter employee ID as numbers only" />
+        <br/>
+        <span asp-validation-for="EmpId" class="text-danger"></span>
+    </div>
+    
+    <div>
+        <label for="EmailAddress">Email Address</label><br>
+        <input asp-for="EmailAddress" type="email" placeholder="Enter your email address" title="Enter a valid email address" />
+        <br/>
+        <span asp-validation-for="EmailAddress" class="text-danger"></span>
+    </div>
+    
+    <div>
+        <label for="ImagePath">Upload Photo</label><br>
+        <input type="file" name="img" accept="image/png, image/jpeg ,image/jpg" />
+        <br/>
+        <span asp-validation-for="ImagePath" class="text-danger"></span>
+    </div>
+    <div class="btn">
+        <button type="submit">Submit</button>
+    </div>
+</form>
+
+

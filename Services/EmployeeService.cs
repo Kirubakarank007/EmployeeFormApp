@@ -2,23 +2,25 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 
-public class EmployeeService{
+public class EmployeeService
+{
 
     private readonly AppDbContext _context;
 
     public EmployeeService(AppDbContext context)
     {
-        _context=context;
+        _context = context;
     }
 
-   public void Add(Employee emp)
-   {
+    public void Add(Employee emp)
+    {
         _context.Employees.Add(emp);
         _context.SaveChanges();
-   }
+    }
 
-    public Employee GetById(int id){
-        var res= _context.Employees.FirstOrDefault(e => e.EmpId == id);
+    public Employee GetById(int id)
+    {
+        var res = _context.Employees.FirstOrDefault(e => e.EmpId == id);
         return res!;
     }
 
@@ -28,13 +30,19 @@ public class EmployeeService{
     }
 
     public void Delete(int empId)
-{
-    var employee = _context.Employees.FirstOrDefault(e => e.EmpId == empId);
-    if (employee != null)
     {
-        _context.Employees.Remove(employee);
-        _context.SaveChanges();
+        var employee = _context.Employees.FirstOrDefault(e => e.EmpId == empId);
+        if (employee != null)
+        {
+            _context.Employees.Remove(employee);
+            _context.SaveChanges();
+        }
     }
-}
+    
+    public Employee GetByEmail(string email)
+    {
+        return _context.Employees.FirstOrDefault(e => e.EmailAddress == email);
+    }
+
 
 }

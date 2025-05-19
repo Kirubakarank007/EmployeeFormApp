@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QJd+DLvSaBTOYbeSHoqsOYobcsOTHtpFd+HGqnXPHYg=",
+  "Hash": "V+RDJS4huKFREDe7Ltc/2TkhpXdSj3KWyYZ9sSSK5dI=",
   "Source": "EmployeeFormApp",
   "BasePath": "_content/EmployeeFormApp",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\1q8g50t8yo-wnzneddyyb.gz",
+      "SourceId": "EmployeeFormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/EmployeeFormApp",
+      "RelativePath": "css/AllEmployees#[.{fingerprint=wnzneddyyb}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\AllEmployees.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "w4yhpg05cr",
+      "Integrity": "EABXHJ/nJdgUDcZamhdmB6C1jh2EcvZTnwYn/Zrm2sQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\AllEmployees.css"
     },
     {
       "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\1uqpqbkxq7-4v8eqarkd7.gz",
@@ -752,6 +773,27 @@
       "OriginalItemSpec": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\jwp543hbdq-gxz8nghp53.gz",
+      "SourceId": "EmployeeFormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/EmployeeFormApp",
+      "RelativePath": "css/AddEmployee#[.{fingerprint=gxz8nghp53}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\AddEmployee.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "enqv2uiyps",
+      "Integrity": "Vk0KS3Ir8MPysFchxfRnf0fvkTyv4+gAmJDWdJjUYGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\AddEmployee.css"
+    },
+    {
       "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\lva3h96o3c-jd9uben2k1.gz",
       "SourceId": "EmployeeFormApp",
       "SourceType": "Discovered",
@@ -1361,6 +1403,27 @@
       "OriginalItemSpec": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\zrzwp4rj9g-8kbh9e54mj.gz",
+      "SourceId": "EmployeeFormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/EmployeeFormApp",
+      "RelativePath": "css/SearchEmployee#[.{fingerprint=8kbh9e54mj}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\SearchEmployee.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "mypv1mxgfd",
+      "Integrity": "Ll5CVa5kwTV75W9VhPwhL1aCAAy8fsqqamfxgzJ30kU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\SearchEmployee.css"
+    },
+    {
       "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\EmployeeFormApp.styles.css",
       "SourceId": "EmployeeFormApp",
       "SourceType": "Computed",
@@ -1401,6 +1464,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\EmployeeFormApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\AddEmployee.css",
+      "SourceId": "EmployeeFormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\",
+      "BasePath": "_content/EmployeeFormApp",
+      "RelativePath": "css/AddEmployee#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gxz8nghp53",
+      "Integrity": "HJFMKHdtxraE0CyCyfN1ifFIWNSCwz1UI5FkEvfOnoQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\AddEmployee.css"
+    },
+    {
+      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\AllEmployees.css",
+      "SourceId": "EmployeeFormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\",
+      "BasePath": "_content/EmployeeFormApp",
+      "RelativePath": "css/AllEmployees#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wnzneddyyb",
+      "Integrity": "TIbYXMhFiEw7gCayGl2glzmzuMjg5fD4BfXizEWlAeA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\AllEmployees.css"
+    },
+    {
+      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\SearchEmployee.css",
+      "SourceId": "EmployeeFormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\",
+      "BasePath": "_content/EmployeeFormApp",
+      "RelativePath": "css/SearchEmployee#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8kbh9e54mj",
+      "Integrity": "OLpRD3xdpQaYkCb31pinOEaQSmCl4C82pQV7cr+hKmw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\SearchEmployee.css"
     },
     {
       "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\site.css",
@@ -2726,12 +2852,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1223_KIRUBAKARAN .png",
+      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1234_waseem.png",
       "SourceId": "EmployeeFormApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\",
       "BasePath": "_content/EmployeeFormApp",
-      "RelativePath": "Uploads/1223_KIRUBAKARAN #[.{fingerprint}]?.png",
+      "RelativePath": "Uploads/1234_waseem#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2740,98 +2866,908 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zfbxdicscp",
-      "Integrity": "Ly1YqiBL7xohdhS9Ou9BQu/4Czb4od1TdVT1GnJeueg=",
+      "Fingerprint": "4q72hfwpal",
+      "Integrity": "nCCJcd1N164HmBTZtUC9e3NjutcMoB5F+MK7F4VeUSY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\1223_KIRUBAKARAN .png"
-    },
-    {
-      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\12231_KIRUBAKARAN K.jpg",
-      "SourceId": "EmployeeFormApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\",
-      "BasePath": "_content/EmployeeFormApp",
-      "RelativePath": "Uploads/12231_KIRUBAKARAN K#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "586b2w65bs",
-      "Integrity": "RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\12231_KIRUBAKARAN K.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\122311_KIRUBAKARAN K.jpg",
-      "SourceId": "EmployeeFormApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\",
-      "BasePath": "_content/EmployeeFormApp",
-      "RelativePath": "Uploads/122311_KIRUBAKARAN K#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "586b2w65bs",
-      "Integrity": "RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\122311_KIRUBAKARAN K.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\12235_KIRUBAKARAN .jpg",
-      "SourceId": "EmployeeFormApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\",
-      "BasePath": "_content/EmployeeFormApp",
-      "RelativePath": "Uploads/12235_KIRUBAKARAN #[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "586b2w65bs",
-      "Integrity": "RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\12235_KIRUBAKARAN .jpg"
-    },
-    {
-      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1234_yash.jpg",
-      "SourceId": "EmployeeFormApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\",
-      "BasePath": "_content/EmployeeFormApp",
-      "RelativePath": "Uploads/1234_yash#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "fokmynouzv",
-      "Integrity": "LzAwkHVOaUlILuaSCFvJi4bHkYURuwM10ugpzu9K6uY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Uploads\\1234_yash.jpg"
+      "OriginalItemSpec": "wwwroot\\Uploads\\1234_waseem.png"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/AddEmployee.css",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\jwp543hbdq-gxz8nghp53.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003144654088"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "317"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vk0KS3Ir8MPysFchxfRnf0fvkTyv4+gAmJDWdJjUYGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 09:42:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HJFMKHdtxraE0CyCyfN1ifFIWNSCwz1UI5FkEvfOnoQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HJFMKHdtxraE0CyCyfN1ifFIWNSCwz1UI5FkEvfOnoQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/AddEmployee.css",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\AddEmployee.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HJFMKHdtxraE0CyCyfN1ifFIWNSCwz1UI5FkEvfOnoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 09:42:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HJFMKHdtxraE0CyCyfN1ifFIWNSCwz1UI5FkEvfOnoQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/AddEmployee.css.gz",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\jwp543hbdq-gxz8nghp53.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vk0KS3Ir8MPysFchxfRnf0fvkTyv4+gAmJDWdJjUYGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 09:42:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vk0KS3Ir8MPysFchxfRnf0fvkTyv4+gAmJDWdJjUYGs="
+        }
+      ]
+    },
+    {
+      "Route": "css/AddEmployee.gxz8nghp53.css",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\jwp543hbdq-gxz8nghp53.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003144654088"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "317"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vk0KS3Ir8MPysFchxfRnf0fvkTyv4+gAmJDWdJjUYGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 09:42:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HJFMKHdtxraE0CyCyfN1ifFIWNSCwz1UI5FkEvfOnoQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gxz8nghp53"
+        },
+        {
+          "Name": "label",
+          "Value": "css/AddEmployee.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HJFMKHdtxraE0CyCyfN1ifFIWNSCwz1UI5FkEvfOnoQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/AddEmployee.gxz8nghp53.css",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\AddEmployee.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HJFMKHdtxraE0CyCyfN1ifFIWNSCwz1UI5FkEvfOnoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 09:42:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gxz8nghp53"
+        },
+        {
+          "Name": "label",
+          "Value": "css/AddEmployee.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HJFMKHdtxraE0CyCyfN1ifFIWNSCwz1UI5FkEvfOnoQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/AddEmployee.gxz8nghp53.css.gz",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\jwp543hbdq-gxz8nghp53.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vk0KS3Ir8MPysFchxfRnf0fvkTyv4+gAmJDWdJjUYGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 09:42:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gxz8nghp53"
+        },
+        {
+          "Name": "label",
+          "Value": "css/AddEmployee.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vk0KS3Ir8MPysFchxfRnf0fvkTyv4+gAmJDWdJjUYGs="
+        }
+      ]
+    },
+    {
+      "Route": "css/AllEmployees.css",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\1q8g50t8yo-wnzneddyyb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007874015748"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EABXHJ/nJdgUDcZamhdmB6C1jh2EcvZTnwYn/Zrm2sQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:17:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TIbYXMhFiEw7gCayGl2glzmzuMjg5fD4BfXizEWlAeA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TIbYXMhFiEw7gCayGl2glzmzuMjg5fD4BfXizEWlAeA="
+        }
+      ]
+    },
+    {
+      "Route": "css/AllEmployees.css",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\AllEmployees.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TIbYXMhFiEw7gCayGl2glzmzuMjg5fD4BfXizEWlAeA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:17:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TIbYXMhFiEw7gCayGl2glzmzuMjg5fD4BfXizEWlAeA="
+        }
+      ]
+    },
+    {
+      "Route": "css/AllEmployees.css.gz",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\1q8g50t8yo-wnzneddyyb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EABXHJ/nJdgUDcZamhdmB6C1jh2EcvZTnwYn/Zrm2sQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:17:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EABXHJ/nJdgUDcZamhdmB6C1jh2EcvZTnwYn/Zrm2sQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/AllEmployees.wnzneddyyb.css",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\1q8g50t8yo-wnzneddyyb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007874015748"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EABXHJ/nJdgUDcZamhdmB6C1jh2EcvZTnwYn/Zrm2sQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:17:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TIbYXMhFiEw7gCayGl2glzmzuMjg5fD4BfXizEWlAeA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wnzneddyyb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/AllEmployees.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TIbYXMhFiEw7gCayGl2glzmzuMjg5fD4BfXizEWlAeA="
+        }
+      ]
+    },
+    {
+      "Route": "css/AllEmployees.wnzneddyyb.css",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\AllEmployees.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "158"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TIbYXMhFiEw7gCayGl2glzmzuMjg5fD4BfXizEWlAeA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:17:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wnzneddyyb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/AllEmployees.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TIbYXMhFiEw7gCayGl2glzmzuMjg5fD4BfXizEWlAeA="
+        }
+      ]
+    },
+    {
+      "Route": "css/AllEmployees.wnzneddyyb.css.gz",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\1q8g50t8yo-wnzneddyyb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EABXHJ/nJdgUDcZamhdmB6C1jh2EcvZTnwYn/Zrm2sQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 10:17:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wnzneddyyb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/AllEmployees.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EABXHJ/nJdgUDcZamhdmB6C1jh2EcvZTnwYn/Zrm2sQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/SearchEmployee.8kbh9e54mj.css",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\zrzwp4rj9g-8kbh9e54mj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003690036900"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "270"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ll5CVa5kwTV75W9VhPwhL1aCAAy8fsqqamfxgzJ30kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 09:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OLpRD3xdpQaYkCb31pinOEaQSmCl4C82pQV7cr+hKmw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8kbh9e54mj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/SearchEmployee.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OLpRD3xdpQaYkCb31pinOEaQSmCl4C82pQV7cr+hKmw="
+        }
+      ]
+    },
+    {
+      "Route": "css/SearchEmployee.8kbh9e54mj.css",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\SearchEmployee.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OLpRD3xdpQaYkCb31pinOEaQSmCl4C82pQV7cr+hKmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 09:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8kbh9e54mj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/SearchEmployee.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OLpRD3xdpQaYkCb31pinOEaQSmCl4C82pQV7cr+hKmw="
+        }
+      ]
+    },
+    {
+      "Route": "css/SearchEmployee.8kbh9e54mj.css.gz",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\zrzwp4rj9g-8kbh9e54mj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ll5CVa5kwTV75W9VhPwhL1aCAAy8fsqqamfxgzJ30kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 09:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8kbh9e54mj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/SearchEmployee.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ll5CVa5kwTV75W9VhPwhL1aCAAy8fsqqamfxgzJ30kU="
+        }
+      ]
+    },
+    {
+      "Route": "css/SearchEmployee.css",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\zrzwp4rj9g-8kbh9e54mj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003690036900"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "270"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ll5CVa5kwTV75W9VhPwhL1aCAAy8fsqqamfxgzJ30kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 09:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OLpRD3xdpQaYkCb31pinOEaQSmCl4C82pQV7cr+hKmw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OLpRD3xdpQaYkCb31pinOEaQSmCl4C82pQV7cr+hKmw="
+        }
+      ]
+    },
+    {
+      "Route": "css/SearchEmployee.css",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\css\\SearchEmployee.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OLpRD3xdpQaYkCb31pinOEaQSmCl4C82pQV7cr+hKmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 09:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OLpRD3xdpQaYkCb31pinOEaQSmCl4C82pQV7cr+hKmw="
+        }
+      ]
+    },
+    {
+      "Route": "css/SearchEmployee.css.gz",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\zrzwp4rj9g-8kbh9e54mj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ll5CVa5kwTV75W9VhPwhL1aCAAy8fsqqamfxgzJ30kU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 09:58:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ll5CVa5kwTV75W9VhPwhL1aCAAy8fsqqamfxgzJ30kU="
+        }
+      ]
+    },
     {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\obj\\Debug\\net9.0\\compressed\\1w14ipbw1g-b9sayid5wm.gz",
@@ -21987,8 +22923,8 @@
       ]
     },
     {
-      "Route": "Uploads/1223_KIRUBAKARAN .png",
-      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1223_KIRUBAKARAN .png",
+      "Route": "Uploads/1234_waseem.4q72hfwpal.png",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1234_waseem.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21997,7 +22933,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "521013"
+          "Value": "108291"
         },
         {
           "Name": "Content-Type",
@@ -22005,27 +22941,35 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ly1YqiBL7xohdhS9Ou9BQu/4Czb4od1TdVT1GnJeueg=\""
+          "Value": "\"nCCJcd1N164HmBTZtUC9e3NjutcMoB5F+MK7F4VeUSY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 16:42:52 GMT"
+          "Value": "Mon, 19 May 2025 12:03:38 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "4q72hfwpal"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/1234_waseem.png"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-Ly1YqiBL7xohdhS9Ou9BQu/4Czb4od1TdVT1GnJeueg="
+          "Value": "sha256-nCCJcd1N164HmBTZtUC9e3NjutcMoB5F+MK7F4VeUSY="
         }
       ]
     },
     {
-      "Route": "Uploads/1223_KIRUBAKARAN .zfbxdicscp.png",
-      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1223_KIRUBAKARAN .png",
+      "Route": "Uploads/1234_waseem.png",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1234_waseem.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22034,7 +22978,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "521013"
+          "Value": "108291"
         },
         {
           "Name": "Content-Type",
@@ -22042,101 +22986,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ly1YqiBL7xohdhS9Ou9BQu/4Czb4od1TdVT1GnJeueg=\""
+          "Value": "\"nCCJcd1N164HmBTZtUC9e3NjutcMoB5F+MK7F4VeUSY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 16:42:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zfbxdicscp"
-        },
-        {
-          "Name": "label",
-          "Value": "Uploads/1223_KIRUBAKARAN .png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ly1YqiBL7xohdhS9Ou9BQu/4Czb4od1TdVT1GnJeueg="
-        }
-      ]
-    },
-    {
-      "Route": "Uploads/12231_KIRUBAKARAN K.586b2w65bs.jpg",
-      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\12231_KIRUBAKARAN K.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31224"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 05:23:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "586b2w65bs"
-        },
-        {
-          "Name": "label",
-          "Value": "Uploads/12231_KIRUBAKARAN K.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg="
-        }
-      ]
-    },
-    {
-      "Route": "Uploads/12231_KIRUBAKARAN K.jpg",
-      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\12231_KIRUBAKARAN K.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31224"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 05:23:02 GMT"
+          "Value": "Mon, 19 May 2025 12:03:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22146,253 +23000,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg="
-        }
-      ]
-    },
-    {
-      "Route": "Uploads/122311_KIRUBAKARAN K.586b2w65bs.jpg",
-      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\122311_KIRUBAKARAN K.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31224"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 05:17:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "586b2w65bs"
-        },
-        {
-          "Name": "label",
-          "Value": "Uploads/122311_KIRUBAKARAN K.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg="
-        }
-      ]
-    },
-    {
-      "Route": "Uploads/122311_KIRUBAKARAN K.jpg",
-      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\122311_KIRUBAKARAN K.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31224"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 05:17:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg="
-        }
-      ]
-    },
-    {
-      "Route": "Uploads/12235_KIRUBAKARAN .586b2w65bs.jpg",
-      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\12235_KIRUBAKARAN .jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31224"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 05:17:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "586b2w65bs"
-        },
-        {
-          "Name": "label",
-          "Value": "Uploads/12235_KIRUBAKARAN .jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg="
-        }
-      ]
-    },
-    {
-      "Route": "Uploads/12235_KIRUBAKARAN .jpg",
-      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\12235_KIRUBAKARAN .jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31224"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 05:17:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg="
-        }
-      ]
-    },
-    {
-      "Route": "Uploads/1234_yash.fokmynouzv.jpg",
-      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1234_yash.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2039232"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LzAwkHVOaUlILuaSCFvJi4bHkYURuwM10ugpzu9K6uY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 16:47:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fokmynouzv"
-        },
-        {
-          "Name": "label",
-          "Value": "Uploads/1234_yash.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LzAwkHVOaUlILuaSCFvJi4bHkYURuwM10ugpzu9K6uY="
-        }
-      ]
-    },
-    {
-      "Route": "Uploads/1234_yash.jpg",
-      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\1234_yash.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2039232"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LzAwkHVOaUlILuaSCFvJi4bHkYURuwM10ugpzu9K6uY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 16:47:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LzAwkHVOaUlILuaSCFvJi4bHkYURuwM10ugpzu9K6uY="
+          "Value": "sha256-nCCJcd1N164HmBTZtUC9e3NjutcMoB5F+MK7F4VeUSY="
         }
       ]
     }

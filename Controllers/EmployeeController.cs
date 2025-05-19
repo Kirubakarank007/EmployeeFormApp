@@ -14,32 +14,45 @@ public class EmployeeController : Controller
     }
 
     [HttpGet]
-    public IActionResult Submit()
+    public IActionResult AddEmployee()
     {
         return View();
     }
 
     [HttpPost]
     [HttpPost]
-public IActionResult Submit(Employee emp, IFormFile img)
+public IActionResult AddEmployee(Employee emp, IFormFile img)
 {
-     ModelState.Clear();
-    var existing = _empservice.GetById(emp.EmpId);
-    if (existing != null)
-    {
-        // ModelState.AddModelError("", );
-    ViewBag.Message = $"Employee with ID {emp.EmpId} already exists.";
+        ModelState.Clear();
+        var existing = _empservice.GetById(emp.EmpId);
+        Console.WriteLine(existing);
+        if (existing != null)
+        {
+            if (existing.EmpId == emp.EmpId)
+            {
+                ViewBag.Message = $"Employee with ID {emp.EmpId} already exists.";
+                return View(emp);
+            }
+        }
+        var existingByEmail = _empservice.GetByEmail(emp.EmailAddress);
+        if (existingByEmail != null)
+        {
+            ViewBag.Message = $"Employee with Email Address {emp.EmailAddress} already exists.";
+            return View(emp);
+        }
+    // if (existing.EmailAddress == emp.EmailAddress)
+        // {
+        //     ViewBag.Message = $"Employee with Email Address {emp.EmailAddress} already exists.";
+        //     return View(emp);
+        // }
+        // Basic validation
+        if (!ModelState.IsValid || img == null)
+        {
+            // ModelState.AddModelError("", "");
+            ViewBag.Message = "Please upload a valid image.";
 
-        return View(emp);
-    }
-    // Basic validation
-    if (!ModelState.IsValid || img == null)
-    {
-        // ModelState.AddModelError("", "");
-        ViewBag.Message = "Please upload a valid image.";
-        
-        return View(emp);
-    }
+            return View(emp);
+        }
 
     // Check file size (limit to 2MB)
     if (img.Length > 2 * 1024 * 1024)
@@ -88,13 +101,13 @@ public IActionResult Submit(Employee emp, IFormFile img)
 }
 
     [HttpGet]
-    public IActionResult Retrieve()
+    public IActionResult SearchEmployee()
     {
         return View();
     }
 
     [HttpPost]
-    public IActionResult Retrieve(int empId)
+    public IActionResult SearchEmployee(int empId)
     {
         var res = _empservice.GetById(empId);
         if (res == null)
@@ -107,23 +120,30 @@ public IActionResult Submit(Employee emp, IFormFile img)
     }
 
     [HttpGet]
-    public IActionResult ListAll()
+    public IActionResult AllEmployees()
     {
         var employees = _empservice.GetAll(); 
         return View(employees);
     }
 
     [HttpPost]
-public IActionResult Delete(int empId)
-{
-    var employee = _empservice.GetById(empId);
-    if (employee == null)
+    public IActionResult Delete(int empId)
     {
-        return NotFound();
+        var employee = _empservice.GetById(empId);
+        if (employee == null)
+        {
+            return NotFound();
+        }
+        if (!string.IsNullOrEmpty(employee.ImagePath))
+        {
+            var imagePath = Path.Combine(_env.WebRootPath, employee.ImagePath.TrimStart('/'));
+            if (System.IO.File.Exists(imagePath))
+            {
+                System.IO.File.Delete(imagePath);
+            }
+        }
+        _empservice.Delete(empId);
+        return RedirectToAction("AllEmployees");
     }
-
-    _empservice.Delete(empId);
-    return RedirectToAction("ListAll");
-}
 
 }

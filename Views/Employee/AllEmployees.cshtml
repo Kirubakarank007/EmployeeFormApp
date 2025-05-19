@@ -1,4 +1,5 @@
 @model List<Employee>
+<link rel="stylesheet" href="~/css/AllEmployees.css" asp-append-version="true" />
 
 <h2>All Employees</h2>
 
@@ -7,25 +8,26 @@
     <table border="1" cellpadding="5">
         <thead>
             <tr>
+                <th>Photo</th>
                 <th>Name</th>
                 <th>EmpId</th>
                 <th>Email</th>
-                <th>Photo</th>
+                <th>Action</th>
             </tr>
         </thead>
         <tbody>
         @foreach (var emp in Model)
         {
             <tr>
+                 <td>
+                    @if (!string.IsNullOrEmpty(emp.ImagePath))
+                    {
+                        <img src="@emp.ImagePath" width="100" height="100"  />
+                    }
+                </td>
                 <td>@emp.Name</td>
                 <td>@emp.EmpId</td>
                 <td>@emp.EmailAddress</td>
-                <td>
-                    @if (!string.IsNullOrEmpty(emp.ImagePath))
-                    {
-                        <img src="@emp.ImagePath" width="100" height="100" />
-                    }
-                </td>
                 <td>
                     <form asp-action="Delete" method="post" style="display:inline;">
                         <input type="hidden" name="empId" value="@emp.EmpId" />
