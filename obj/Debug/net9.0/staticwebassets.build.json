@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KwlsEwU3KLMEEJLbUaJjAeCwH1id17BDm1wVd9Rk1OU=",
+  "Hash": "QJd+DLvSaBTOYbeSHoqsOYobcsOTHtpFd+HGqnXPHYg=",
   "Source": "EmployeeFormApp",
   "BasePath": "_content/EmployeeFormApp",
   "Mode": "Default",
@@ -2747,6 +2747,48 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\1223_KIRUBAKARAN .png"
     },
     {
+      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\12231_KIRUBAKARAN K.jpg",
+      "SourceId": "EmployeeFormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\",
+      "BasePath": "_content/EmployeeFormApp",
+      "RelativePath": "Uploads/12231_KIRUBAKARAN K#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "586b2w65bs",
+      "Integrity": "RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\12231_KIRUBAKARAN K.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\122311_KIRUBAKARAN K.jpg",
+      "SourceId": "EmployeeFormApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\",
+      "BasePath": "_content/EmployeeFormApp",
+      "RelativePath": "Uploads/122311_KIRUBAKARAN K#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "586b2w65bs",
+      "Integrity": "RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\122311_KIRUBAKARAN K.jpg"
+    },
+    {
       "Identity": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\12235_KIRUBAKARAN .jpg",
       "SourceId": "EmployeeFormApp",
       "SourceType": "Discovered",
@@ -2761,8 +2803,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7vu08ukj1d",
-      "Integrity": "Q9xdUSyPHARB4ANPFRDyQBvHIzp9Mqh03DMQ9o452nE=",
+      "Fingerprint": "586b2w65bs",
+      "Integrity": "RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Uploads\\12235_KIRUBAKARAN .jpg"
@@ -22027,8 +22069,8 @@
       ]
     },
     {
-      "Route": "Uploads/12235_KIRUBAKARAN .7vu08ukj1d.jpg",
-      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\12235_KIRUBAKARAN .jpg",
+      "Route": "Uploads/12231_KIRUBAKARAN K.586b2w65bs.jpg",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\12231_KIRUBAKARAN K.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22037,7 +22079,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1624919"
+          "Value": "31224"
         },
         {
           "Name": "Content-Type",
@@ -22045,11 +22087,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Q9xdUSyPHARB4ANPFRDyQBvHIzp9Mqh03DMQ9o452nE=\""
+          "Value": "\"RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 16:53:55 GMT"
+          "Value": "Fri, 16 May 2025 05:23:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22059,7 +22101,171 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7vu08ukj1d"
+          "Value": "586b2w65bs"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/12231_KIRUBAKARAN K.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/12231_KIRUBAKARAN K.jpg",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\12231_KIRUBAKARAN K.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 05:23:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/122311_KIRUBAKARAN K.586b2w65bs.jpg",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\122311_KIRUBAKARAN K.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 05:17:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "586b2w65bs"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/122311_KIRUBAKARAN K.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/122311_KIRUBAKARAN K.jpg",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\122311_KIRUBAKARAN K.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 05:17:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/12235_KIRUBAKARAN .586b2w65bs.jpg",
+      "AssetFile": "C:\\Users\\kkirubakaran\\project\\.Net core Course\\project\\EmployeeFormApp\\wwwroot\\Uploads\\12235_KIRUBAKARAN .jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 05:17:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "586b2w65bs"
         },
         {
           "Name": "label",
@@ -22067,7 +22273,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Q9xdUSyPHARB4ANPFRDyQBvHIzp9Mqh03DMQ9o452nE="
+          "Value": "sha256-RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg="
         }
       ]
     },
@@ -22082,7 +22288,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1624919"
+          "Value": "31224"
         },
         {
           "Name": "Content-Type",
@@ -22090,11 +22296,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Q9xdUSyPHARB4ANPFRDyQBvHIzp9Mqh03DMQ9o452nE=\""
+          "Value": "\"RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 05 May 2025 16:53:55 GMT"
+          "Value": "Fri, 16 May 2025 05:17:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22104,7 +22310,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Q9xdUSyPHARB4ANPFRDyQBvHIzp9Mqh03DMQ9o452nE="
+          "Value": "sha256-RVYc68GR9MJERi6Eww04KSwBYJjJdEeWeNFpW7I9VKg="
         }
       ]
     },

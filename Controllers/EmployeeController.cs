@@ -23,17 +23,30 @@ public class EmployeeController : Controller
     [HttpPost]
 public IActionResult Submit(Employee emp, IFormFile img)
 {
+     ModelState.Clear();
+    var existing = _empservice.GetById(emp.EmpId);
+    if (existing != null)
+    {
+        // ModelState.AddModelError("", );
+    ViewBag.Message = $"Employee with ID {emp.EmpId} already exists.";
+
+        return View(emp);
+    }
     // Basic validation
     if (!ModelState.IsValid || img == null)
     {
-        ModelState.AddModelError("", "Please upload a valid image.");
+        // ModelState.AddModelError("", "");
+        ViewBag.Message = "Please upload a valid image.";
+        
         return View(emp);
     }
 
     // Check file size (limit to 2MB)
     if (img.Length > 2 * 1024 * 1024)
     {
-        ModelState.AddModelError("", "Image must be under 2MB.");
+        // ModelState.AddModelError("", "");
+        ViewBag.Message = "Image must be under 2MB.";
+
         return View(emp);
     }
 
@@ -42,8 +55,9 @@ public IActionResult Submit(Employee emp, IFormFile img)
     var fileExtension = Path.GetExtension(img.FileName).ToLower();
     if (!allowedExtensions.Contains(fileExtension))
     {
-        ModelState.AddModelError("", "Invalid Image: File must be JPEG or PNG.");
-        return View(emp);
+        ViewBag.Message = "Invalid Image: File must be JPEG or PNG.";
+
+        return View();
     }
 
     // Save image to the "Uploads" folder
@@ -98,5 +112,18 @@ public IActionResult Submit(Employee emp, IFormFile img)
         var employees = _empservice.GetAll(); 
         return View(employees);
     }
+
+    [HttpPost]
+public IActionResult Delete(int empId)
+{
+    var employee = _empservice.GetById(empId);
+    if (employee == null)
+    {
+        return NotFound();
+    }
+
+    _empservice.Delete(empId);
+    return RedirectToAction("ListAll");
+}
 
 }

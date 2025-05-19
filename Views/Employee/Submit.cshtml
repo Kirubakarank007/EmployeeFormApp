@@ -1,6 +1,5 @@
 @model Employee
-@Html.ValidationSummary(true)
-
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })
 <h2>Submit Employee Form</h2>
 
 <form method="post" enctype="multipart/form-data">
@@ -35,7 +34,12 @@
     <button type="submit">Submit</button>
 </form>
 
-@if (ViewBag.Message != null)
+@if (ViewBag.Message != null && ViewBag.Message == "File submitted successfully!")
 {
     <p style="color:green;">@ViewBag.Message</p>
+}
+else
+{
+    <p style="color:red;">@ViewBag.Message</p>
+
 }

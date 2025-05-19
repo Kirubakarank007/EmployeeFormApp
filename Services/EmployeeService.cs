@@ -27,4 +27,14 @@ public class EmployeeService{
         return _context.Employees.ToList();
     }
 
+    public void Delete(int empId)
+{
+    var employee = _context.Employees.FirstOrDefault(e => e.EmpId == empId);
+    if (employee != null)
+    {
+        _context.Employees.Remove(employee);
+        _context.SaveChanges();
+    }
+}
+
 }
